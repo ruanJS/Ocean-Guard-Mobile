@@ -1,0 +1,9 @@
+### Add Observation
+POST http://localhost:8080/observations/add
+Content-Type: application/json
+Authorization: Bearer YOUR_TOKEN_HERE
+
+{
+  "type": "Marine Debris",
+  "description": "Observed plastic waste on the shore."
+}

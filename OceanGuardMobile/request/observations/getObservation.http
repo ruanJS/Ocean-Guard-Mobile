@@ -1,0 +1,3 @@
+### Get Observations
+GET http://localhost:8080/observations
+Authorization: Bearer YOUR_TOKEN_HERE
